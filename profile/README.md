@@ -1,4 +1,4 @@
-# 人类健康计划 (HHPF)
+# 人类健康计划 (HHP)
 
 ## 项目概述
 人类健康计划（HHPF）致力于推动从生物医学到智能系统健康时代的跃迁，构建全球普惠的健康基础设施。
@@ -64,4 +64,5 @@ A new paradigm based on SMD (Systems Medicine Doctor), with core principles:
 3. **Balance between public welfare and business**: Public welfare as the foundation, business as the means, to achieve sustainable development
 
 ## Vision
+
 To make health services flow to every corner of the world at low cost through AI algorithms and SOPs, just like water, electricity, and coal, becoming the infrastructure for human health.
