@@ -1,7 +1,7 @@
 # 人类健康计划基金会 (HHPF)
 
 ## 项目概述
-HHPF致力于推动从割裂的“生物医学“到“系统医学与智能健康融合”的健康新时代跃迁，构建全球普惠的健康基础设施，深化新时代健康科技、弘扬新时代健康文化，推动新时代人类健康文明。
+HHPF致力于推动从割裂的“生物医学“到“系统医学与智能健康”融合的健康新时代跃迁，构建全球普惠的健康基础设施，深化新时代健康科技、弘扬新时代健康文化，推动新时代人类健康文明。
 
 ## 核心使命
 - 打破健康信息壁垒，普及健康教育
@@ -36,7 +36,7 @@ HHPF致力于推动从割裂的“生物医学“到“系统医学与智能健�
 # Human Health Project Foundation (HHPF)
 
 ## Project Overview
-The Human Health Project Foundation (HHPF) is dedicated to promoting the transition from biomedicine to the era of intelligent system health, building a globally inclusive health infrastructure.
+HHPF is dedicated to promoting the transition from fragmented "biomedicine" to the new era of health that integrates "systems medicine and intelligent health". We aim to build globally inclusive health infrastructure, deepen new-era health technology, promote new-era health culture, and advance new-era human health civilization.
 
 ## Core Mission
 - Break down health information barriers and popularize health education
@@ -45,7 +45,7 @@ The Human Health Project Foundation (HHPF) is dedicated to promoting the transit
 - Achieve universal access to health services, making quality health guidance available worldwide
 
 ## Project Background
-Standing at the historical node of 2025, human health is experiencing the most profound paradigm shift since the invention of antibiotics. We are no longer merely in the "biomedical era" but have officially entered the "intelligent system health era."
+Standing at the historical node where the intelligent era officially arrives, human health is experiencing the most profound paradigm shift since the invention of antibiotics. We are no longer merely in the "biomedical era" but have officially entered the "intelligent system health era."
 
 ## Current Challenges
 1. **Over-medicalization and iatrogenic harm**: Widespread over-examination and over-medication globally
