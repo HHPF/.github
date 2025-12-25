@@ -33,7 +33,7 @@ HHPF致力于推动从割裂的“生物医学“到“系统医学与智能健�
 
 ---
 
-# Human Health Project Foundation (HHPF)
+# Human Health Plan Foundation (HHPF)
 
 ## Project Overview
 HHPF is dedicated to promoting the transition from fragmented "biomedicine" to the new era of health that integrates "systems medicine and intelligent health". We aim to build globally inclusive health infrastructure, deepen new-era health technology, promote new-era health culture, and advance new-era human health civilization.
