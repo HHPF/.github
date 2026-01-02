@@ -8,7 +8,7 @@
 
 <div align="center">
   <!-- 请替换下方的 src 地址为您仓库中的实际 Logo 图片地址 -->
-  <img src="http://localhost:5173/logo-green.png" alt="HHPF Logo" width="120">
+  <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="120">
   
   # Human Health Plan Foundation (HHPF)
   
@@ -95,3 +95,4 @@
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Powered by Decentralized Science (DeSci).</sub>
 </div>
+
