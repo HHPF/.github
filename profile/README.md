@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  **致力于AI时代人类健康基础设施建设，推送人类健康文明升级！**
+  **致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
 
   [🌐 官方网站](https://HHP.Foundation/zh-CN/) | [📄 白皮书 (Whitepaper)](https://HHP.Foundation/zh-CN/) | [🐦 Twitter/X](https://twitter.com/) | [💬 Discord](https://discord.gg/)
 </div>
@@ -106,6 +106,7 @@ HHPF 坚信开源的力量。无论你是密码学家、生物信息学家还是
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Built with ❤️ for the future of Humanity.</sub>
 </div>
+
 
 
 
