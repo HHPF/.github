@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://via.placeholder.com/180?text=HHPF+Logo" alt="HHPF Logo" width="120" height="120"><br>
+  <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" height="160"><br>
   
   # Human Health Plan Foundation
   
@@ -106,5 +106,6 @@ HHPF 坚信开源的力量。无论你是密码学家、生物信息学家还是
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Built with ❤️ for the future of Humanity.</sub>
 </div>
+
 
 
