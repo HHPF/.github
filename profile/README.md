@@ -1,12 +1,14 @@
+<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
+
+# Human Health Plan Foundation
+
+---
+
 [English](#-english) | [简体中文](#-简体中文) | [繁體中文](#-繁體中文)
 
 ---
 
 <h2 id="-english">🌐 English</h2>
-
-<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
-
-# Human Health Plan Foundation
 
 **Committed to building human health infrastructure in the AI era and promoting the upgrade of human health civilization!**
 
@@ -24,10 +26,6 @@ Our work is based on three core categories of the Paradigm Revolution:
 
 <h2 id="-简体中文">🇨🇳 简体中文</h2>
 
-<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
-
-# Human Health Plan Foundation
-
 **致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
 
 - 🌍 **官方网址：** [https://hhp.foundation/](https://hhp.foundation/)
@@ -42,10 +40,6 @@ Our work is based on three core categories of the Paradigm Revolution:
 ---
 
 <h2 id="-繁體中文">🇭🇰 繁體中文</h2>
-
-<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
-
-# Human Health Plan Foundation
 
 **致力於AI時代人類健康基礎設施建設，推動人類健康文明升級！**
 
