@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="160">
+  <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="160"><br><br>
   <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
   <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
   <a href="./README_TW.md"><img src="https://img.shields.io/badge/繁體中文-Trad.%20Chinese-grey?style=for-the-badge" alt="繁體中文"></a>
@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  # Human Health Plan Foundation (HHPF)
+  # Human Health Plan Foundation
   
   **致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
 
@@ -18,11 +18,11 @@
 
 ---
 
-## 👋 联合创始人致辞
+## 👋 创始人明海（Ocean.X）致辞
 
 你好，欢迎来到 **人类健康计划基金会 (HHPF)** 的开源社区。
 
-作为联合创始人，我深知“计划 (Plan)”二字的份量。它不仅仅是一个愿景，更是一条清晰的执行路径。HHPF 旨在通过区块链技术确立个人健康数据的主权，并利用 AI 挖掘生命数据的深层价值。我们正在执行一项关乎全人类福祉的宏伟计划——打破医疗数据孤岛，让每个人都能从自己的健康数据中获益，并共同推动长寿科学的发展。
+作为HHPF创始人，我深知“计划 (Plan)”二字的份量。它不仅仅是一个愿景，更是一条清晰的执行路径。HHPF 旨在通过区块链技术确立个人健康数据的主权，并利用 AI 挖掘生命数据的深层价值。我们正在执行一项关乎全人类福祉的宏伟计划——打破医疗数据孤岛，让每个人都能从自己的健康数据中获益，并共同推动长寿科学的发展。
 
 我们的白皮书现已发布，邀请您共同见证并参与这一变革。
 
@@ -94,6 +94,7 @@
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Powered by Decentralized Science (DeSci).</sub>
 </div>
+
 
 
 
