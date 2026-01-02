@@ -13,7 +13,7 @@
   
   # Human Health Project Foundation (HHPF)
   
-  **重塑健康数据价值，构建全人类的数字生命永生图谱**
+  **致力于AI时代人类健康基础设施建设**
 
   [🌐 官方网站](https://HHP.Foundation/zh-CN/) | [📄 阅读白皮书](https://HHP.Foundation/zh-CN/) | [💬 加入社区](#community)
 </div>
@@ -99,3 +99,4 @@ HHPF 是一个开放的社区项目，我们欢迎开发者、医疗专家和数
 <div align="center">
   <sub>&copy; 2024 Human Health Project Foundation. All Rights Reserved. <br> Built for Humanity.</sub>
 </div>
+
