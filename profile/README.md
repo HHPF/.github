@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://via.placeholder.com/180?text=HHPF+Logo" alt="HHPF Logo" width="120" height="120"><br>
+  # Human Health Plan Foundation
   <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
   <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
   <a href="./README_TW.md"><img src="https://img.shields.io/badge/繁體中文-Trad.%20Chinese-grey?style=for-the-badge" alt="繁體中文"></a>
@@ -7,14 +9,8 @@
 <br />
 
 <div align="center">
-  <a href="https://HHP.Foundation/zh-CN/">
-    <!-- 请确保仓库根目录下有 logo.png，或者替换为网络图片链接 -->
-    <img src="https://via.placeholder.com/180?text=HHPF+Logo" alt="HHPF Logo" width="120" height="120">
-  </a>
   
-  # Human Health Plan Foundation (HHPF)
-  
-  **解码生命，普惠人类：基于 DeSci 的全球健康数据协作网络**
+  **致力于AI时代人类健康基础设施建设，推送人类健康文明升级！**
 
   [🌐 官方网站](https://HHP.Foundation/zh-CN/) | [📄 白皮书 (Whitepaper)](https://HHP.Foundation/zh-CN/) | [🐦 Twitter/X](https://twitter.com/) | [💬 Discord](https://discord.gg/)
 </div>
@@ -107,3 +103,4 @@ HHPF 坚信开源的力量。无论你是密码学家、生物信息学家还是
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Built with ❤️ for the future of Humanity.</sub>
 </div>
+
