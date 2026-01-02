@@ -1,114 +1,66 @@
-<div align="center">
-  
-  <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="160"><br>
-  
-  # Human Health Plan Foundation
-  
-  <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
-  <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
-  <a href="./README_TW.md"><img src="https://img.shields.io/badge/繁體中文-Trad.%20Chinese-grey?style=for-the-badge" alt="繁體中文"></a>
-  
-</div>
-
-<br />
-
-<div align="center">
-  
-  **致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
-
-  [🌐 官方网站](https://HHP.Foundation/zh-CN/) | [📄 白皮书 (Whitepaper)](https://HHP.Foundation/zh-CN/) | [🐦 Twitter/X](https://twitter.com/) | [💬 Discord](https://discord.gg/)
-</div>
+[English](#-english) | [简体中文](#-简体中文) | [繁體中文](#-繁體中文)
 
 ---
 
-## 🗣️ 来自HHPF创始人 Ocean.X 的信
+<h2 id="-english">🌐 English</h2>
 
-你好，我是 **Ocean.X**，Human Health Plan Foundation (HHPF) 的创始人!
+<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
 
-我们正处在生物技术与人工智能交汇的奇点，但我们也面临着巨大的危机：**我们的健康数据——这一人类最宝贵的资产，正被割裂在孤岛中，或被巨头无偿攫取。**
+# Human Health Plan Foundation
 
-HHPF 的诞生不仅是为了构建一个平台，更是为了执行一项宏大的 **“人类健康计划 (Human Health Plan)”**。我们的愿景是打破壁垒，让每一位个体重新掌握自己的生命数据主权，并通过去中心化的协作，加速人类在抗衰老、疾病预测和个性化医疗领域的突破。
+**Committed to building human health infrastructure in the AI era and promoting the upgrade of human health civilization!**
 
-在 HHPF，代码即法律，数据即资产，健康即自由。欢迎加入这场关于生命科学的开源革命。
+- 🌍 **Official Website:** [https://hhp.foundation/](https://hhp.foundation/)
+- 📖 **Whitepaper:** [HHPF Whitepaper](https://hhp.foundation/whitepaper/)
 
----
+### 🚀 Building Human Health Infrastructure in the AI Era
+Our work is based on three core categories of the Paradigm Revolution:
 
-## 🧬 什么是人类健康计划 (The Plan)?
-
-**Human Health Plan (HHP)** 是由 HHPF 发起的一项全球性去中心化科学 (DeSci) 倡议。我们利用区块链技术确保数据隐私与归属权，通过 AI 挖掘数据价值，并利用通证经济激励全球用户贡献多维度的健康数据。
-
-### 核心使命
-1.  **数据确权 (Sovereignty):** 将基因、医疗影像、可穿戴设备数据的所有权归还给用户。
-2.  **价值流转 (Liquidity):** 建立健康数据交易市场，让数据贡献者直接获得科研红利。
-3.  **科研加速 (Acceleration):** 为全球科研机构提供经过隐私计算处理的高质量、多样化数据集，加速药物研发与 AI 诊断模型的迭代。
+1.  **Mindset Upgrade:** Health Philosophy, Integrated Medical and Nursing Care, First Principles of Health, Health Engineering Methodology.
+2.  **Theoretical Framework Deepening:** Systems Medicine / Systems Therapy / Systems Evidence-based / Systems Diagnosis and Treatment.
+3.  **Practical Standard Transformation:** Standardization Engineering, Health Intelligence (Health AI), Health SOPs, Industrial Upgrading.
 
 ---
 
-## 🏗️ 核心架构 (Overview)
+<h2 id="-简体中文">🇨🇳 简体中文</h2>
 
-根据我们的[白皮书](https://HHP.Foundation/zh-CN/)，HHP 生态系统由以下技术堆栈支撑：
+<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
 
-### 1. HHP Layer (数据层)
--   **去中心化存储 (Decentralized Storage):** 采用 IPFS/Arweave 结合加密技术存储原始健康数据。
--   **DID (去中心化身份):** 每个人唯一的健康数字身份，链接链下实体与链上资产。
+# Human Health Plan Foundation
 
-### 2. Privacy Engine (隐私计算引擎)
--   **Zero-Knowledge Proofs (ZKPs):** 允许用户在不暴露原始数据的前提下证明其健康特征（如“我已接种疫苗”或“我有特定基因标记”）。
--   **Federated Learning (联邦学习):** 允许 AI 模型在本地数据上训练，仅上传参数更新，确保数据不出库。
+**致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
 
-### 3. Incentive Network (激励网络)
--   **Proof of Health (PoH):** 用户上传有效健康数据或完成健康挑战的工作量证明机制。
--   **Marketplace:** 科研机构通过购买 Token 调用数据API，收益自动分配给数据贡献者。
+- 🌍 **官方网址：** [https://hhp.foundation/](https://hhp.foundation/)
+- 📖 **白皮书：** [HHPF 白皮书](https://hhp.foundation/zh-CN/whitepaper/)
 
----
+### 🚀 AI时代人类健康基础设施建设是基于范式革命三大类工作：
 
-## 🗺️ 路线图 (Roadmap)
-
-我们在白皮书中规划了清晰的执行路径：
-
-*   **Phase 1: 创世 (Genesis)** ✅
-    *   HHPF 基金会成立
-    *   发布[白皮书](https://HHP.Foundation/zh-CN/)与经济模型
-    *   官网与社区启动
-*   **Phase 2: 觉醒 (Awakening)** 🚧
-    *   发布 HHP Wallet (Beta)
-    *   启动早期数据捐赠计划 (Early Adopter Program)
-    *   NFT Pass 发行
-*   **Phase 3: 链接 (Connection)**
-    *   HHP 测试网上线
-    *   接入首批可穿戴设备数据接口
-    *   启动“长寿研究”DAO 治理
-*   **Phase 4: 永生 (Infinity)**
-    *   主网上线
-    *   构建全球最大的开源生物样本库
-    *   AI 医生助手全面部署
+1.  **思维模式升级：** 健康哲学，医养一体化思想，健康的第一原理，健康工程方法论。
+2.  **理论框架深化：** 系统医学 / 系统疗法 / 系统循证 / 系统诊疗。
+3.  **实践标准变革：** 标准化工程，健康智能，健康SOP，产业升级。
 
 ---
 
-## 🤝 加入开发 (Contribution)
+<h2 id="-繁體中文">🇭🇰 繁體中文</h2>
 
-HHPF 坚信开源的力量。无论你是密码学家、生物信息学家还是全栈开发者，我们都期待你的 PR。
+<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
 
-请查阅 [CONTRIBUTING.md](./CONTRIBUTING.md) 了解代码规范与贡献指南。我们目前急需以下领域的贡献：
--   ZK-Rollup 适配健康数据的压缩算法
--   FHIR 标准数据转换接口
--   React Native 移动端钱包开发
+# Human Health Plan Foundation
+
+**致力於AI時代人類健康基礎設施建設，推動人類健康文明升級！**
+
+- 🌍 **官方網址：** [https://hhp.foundation/](https://hhp.foundation/)
+- 📖 **白皮書：** [HHPF 白皮書](https://hhp.foundation/zh-TW/whitepaper/)
+
+### 🚀 AI時代人類健康基礎設施建設是基於範式革命三大類工作：
+
+1.  **思維模式升級：** 健康哲學，醫養一體化思想，健康的第一原理，健康工程方法論。
+2.  **理論框架深化：** 系統醫學 / 系統療法 / 系統循證 / 系統診療。
+3.  **實踐標準變革：** 標準化工程，健康智能，健康SOP，產業升級。
 
 ---
 
-## 🔗 官方资源
-
-*   **白皮书:** [https://HHP.Foundation/zh-CN/](https://HHP.Foundation/zh-CN/)
-*   **GitHub:** [https://github.com/HumanHealthPlan](https://github.com/) (示例链接)
-*   **媒体合作:** media@hhp.foundation
-
----
-
-<div align="center">
-  <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Built with ❤️ for the future of Humanity.</sub>
-</div>
-
-
+**Contact us:** [info@hhp.foundation](mailto:info@hhp.foundation)
 
 
 
