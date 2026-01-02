@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
   <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
@@ -8,12 +7,12 @@
 <br />
 
 <div align="center">
-  <!-- 如果有LOGO，请替换下方的 src 地址 -->
-  <img src="https://via.placeholder.com/150?text=HHPF+Logo" alt="HHPF Logo" width="120" height="120">
+  <!-- 请替换下方的 src 地址为您仓库中的实际 Logo 图片地址 -->
+  <img src="http://localhost:5173/logo-green.png" alt="HHPF Logo" width="120">
   
-  # Human Health Project Foundation (HHPF)
+  # Human Health Plan Foundation (HHPF)
   
-  **致力于AI时代人类健康基础设施建设**
+  **致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
 
   [🌐 官方网站](https://HHP.Foundation/zh-CN/) | [📄 阅读白皮书](https://HHP.Foundation/zh-CN/) | [💬 加入社区](#community)
 </div>
@@ -22,81 +21,77 @@
 
 ## 👋 联合创始人致辞
 
-你好，欢迎来到 **人类健康计划基金会 (HHPF)** 的开源世界。
+你好，欢迎来到 **人类健康计划基金会 (HHPF)** 的开源社区。
 
-作为联合创始人，我坚信个人的健康数据不应沉睡在孤岛中，也不应被巨头无偿通过。在 HHPF，我们致力于利用区块链和 AI 技术，建立一个去中心化的健康数据生态系统。在这里，每一位贡献者都能拥有自己的数据主权，并从人类健康研究的突破中获得回报。
+作为联合创始人，我深知“计划 (Plan)”二字的份量。它不仅仅是一个愿景，更是一条清晰的执行路径。HHPF 旨在通过区块链技术确立个人健康数据的主权，并利用 AI 挖掘生命数据的深层价值。我们正在执行一项关乎全人类福祉的宏伟计划——打破医疗数据孤岛，让每个人都能从自己的健康数据中获益，并共同推动长寿科学的发展。
 
-我们的白皮书现已正式发布，这标志着我们从理念走向实践的关键一步。
+我们的白皮书现已发布，邀请您共同见证并参与这一变革。
 
 ---
 
-## 🚀 关于 HHPF (Human Health Project)
+## 🚀 关于 HHPF (Human Health Plan)
 
-**HHPF** 是一个致力于推动全球健康公平与长寿研究的非营利性基金会项目。我们通过构建去中心化物理基础设施网络 (DePIN) 和人工智能计算层，解决传统医疗数据面临的隐私泄露、数据孤岛和价值分配不均的问题。
+**HHPF** 是一个非营利性基金会，致力于推动 **Human Health Plan (人类健康计划)** 的实施。我们构建了一个去中心化的生态系统，旨在解决当前医疗健康领域的数据隐私、互操作性差以及价值归属不清等核心痛点。
 
-### 核心愿景
-1.  **数据主权 (Data Sovereignty):** 用户完全掌控自己的基因与健康数据。
-2.  **价值共享 (Value Sharing):** 数据贡献者直接获得代币激励，参与科研红利分配。
-3.  **AI 驱动 (AI-Driven):** 利用庞大的分布式数据集训练下一代医疗 AI 模型。
+### 我们的核心支柱
+1.  **数据主权回归:** 您的基因、体征与病历数据归您所有，而非属于科技巨头。
+2.  **全人类健康图谱:** 汇聚全球多样化数据，训练更精准、无偏见的医疗 AI 模型。
+3.  **公平的价值激励:** 每一位参与“计划”的数据贡献者，都将通过通证经济获得公平的回报。
 
 ---
 
 ## 📚 白皮书 (Whitepaper)
 
-如果你想深入了解我们的技术架构、代币经济学 (Tokenomics) 以及未来路线图，请查阅我们最新的白皮书：
+了解 HHPF 的技术架构、治理模型以及我们如何通过技术手段实现这一宏大计划，请阅读我们的官方白皮书：
 
-> **👉 [点击阅读 HHPF 官方白皮书 (中文版)](https://HHP.Foundation/zh-CN/)**
+> **👉 [点击阅读 Human Health Plan 官方白皮书](https://HHP.Foundation/zh-CN/)**
 
 ---
 
-## 🛠️ 技术架构概览
+## 🛠️ 技术生态
 
-我们的开源代码库将逐步涵盖以下核心模块：
+我们的代码库将围绕以下核心组件构建（逐步开源）：
 
--   **HHP-Chain:** 基于高性能共识机制的健康数据侧链。
--   **Data Vault (隐私金库):** 基于零知识证明 (ZKP) 的数据加密与存储方案。
--   **AI Compute Nodes:** 用于处理脱敏健康数据的分布式计算节点。
--   **DApp Wallet:** 用户管理健康ID与资产的移动端入口。
-
-*(注：核心代码将分阶段开源，请关注本仓库的 Release 动态)*
+-   **HHP Protocol:** 用于健康数据确权与流转的底层协议。
+-   **Secure Data Enclave:** 基于隐私计算技术的数据存储环境，确保数据“可用不可见”。
+-   **Health Wallet:** 用户参与人类健康计划、管理数据资产的入口。
 
 ---
 
 ## 🗺️ 路线图 (Roadmap)
 
-- [x] **Phase 1: 创世阶段** - 成立基金会，发布白皮书，官网由 Web2 向 Web3 转型。
-- [ ] **Phase 2: 社区建设** - 启动早期贡献者计划，NFT Pass 发行。
-- [ ] **Phase 3: 测试网发布** - HHP 测试网上线，开启数据上传挖掘测试。
-- [ ] **Phase 4: 主网与生态** - 主网上线，接入全球医疗研究机构。
+我们正在按照既定计划稳步前行：
+
+- [x] **Phase 1: 启动 (Inception)** - 基金会成立，官方网站上线，白皮书发布。
+- [ ] **Phase 2: 聚合 (Aggregation)** - 社区建设，早期贡献者招募，发布数据采集 DApp 原型。
+- [ ] **Phase 3: 网络 (Network)** - HHP 测试网上线，验证数据上链与隐私计算流程。
+- [ ] **Phase 4: 进化 (Evolution)** - 主网发布，接入全球科研机构与医疗合作伙伴。
 
 ---
 
-## 🤝 如何贡献 (Contribution)
+## 🤝 参与贡献 (Contribution)
 
-HHPF 是一个开放的社区项目，我们欢迎开发者、医疗专家和数据科学家的加入。
+**Human Health Plan** 需要全世界的智慧。无论你是开发者、医生、研究员还是健康倡导者，都可以加入我们。
 
-1.  **Fork** 本仓库。
-2.  新建分支: `git checkout -b feature/AmazingFeature`
-3.  提交更改: `git commit -m 'Add some AmazingFeature'`
-4.  推送到分支: `git push origin feature/AmazingFeature`
+1.  **Fork** 本仓库
+2.  创建你的特性分支 (`git checkout -b feature/MyFeature`)
+3.  提交你的改动 (`git commit -m 'Add some MyFeature'`)
+4.  推送到分支 (`git push origin feature/MyFeature`)
 5.  提交 **Pull Request**
 
-请在提交代码前阅读我们的 [CONTRIBUTING.md](CONTRIBUTING.md) (建设中)。
-
 ---
 
-## 🔗 关注我们要 (Community)
+## 🔗 社区与联系 (Community)
 
-保持联系，获取最新动态：
+关注我们的最新动态，参与人类健康计划的讨论：
 
-*   **官方网站:** [https://HHP.Foundation](https://HHP.Foundation/zh-CN/)
-*   **Twitter/X:** [@HHPFoundation](https://twitter.com/) (请替换为实际链接)
-*   **Discord:** [Join HHPF Community](https://discord.gg/) (请替换为实际链接)
+*   **Website:** [https://HHP.Foundation](https://HHP.Foundation/zh-CN/)
+*   **Twitter:** [@HHPFoundation](https://twitter.com/) (请替换为实际链接)
+*   **Telegram/Discord:** (请替换为实际链接)
 *   **Email:** contact@hhp.foundation
 
 ---
 
 <div align="center">
-  <sub>&copy; 2024 Human Health Project Foundation. All Rights Reserved. <br> Built for Humanity.</sub>
+  <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Powered by Decentralized Science (DeSci).</sub>
 </div>
-
