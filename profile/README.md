@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="160">
   <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
   <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
   <a href="./README_TW.md"><img src="https://img.shields.io/badge/繁體中文-Trad.%20Chinese-grey?style=for-the-badge" alt="繁體中文"></a>
@@ -7,8 +8,6 @@
 <br />
 
 <div align="center">
-  <!-- 请替换下方的 src 地址为您仓库中的实际 Logo 图片地址 -->
-  <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="200">
   
   # Human Health Plan Foundation (HHPF)
   
@@ -95,5 +94,6 @@
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Powered by Decentralized Science (DeSci).</sub>
 </div>
+
 
 
