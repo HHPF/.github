@@ -11,7 +11,7 @@
 **Committed to building human health infrastructure in the AI era and promoting the upgrade of human health civilization!**
 
 - 🌍 **Official Website:** [https://hhp.foundation/](https://hhp.foundation/)
-- 📖 **Whitepaper:** [HHPF Whitepaper](https://hhp.foundation/whitepaper/)
+- 📖 **Whitepaper:** [HHPF Whitepaper](https://hhp.foundation/Whitepaper/Project-Origins.html)
 
 ### 🚀 Building Human Health Infrastructure in the AI Era
 Our work is based on three core categories of the Paradigm Revolution:
@@ -31,7 +31,7 @@ Our work is based on three core categories of the Paradigm Revolution:
 **致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
 
 - 🌍 **官方网址：** [https://hhp.foundation/](https://hhp.foundation/)
-- 📖 **白皮书：** [HHPF 白皮书](https://hhp.foundation/zh-CN/whitepaper/)
+- 📖 **白皮书：** [HHPF 白皮书](https://hhp.foundation/zh-CN/whitepaper/Project-Origins.html)
 
 ### 🚀 AI时代人类健康基础设施建设是基于范式革命三大类工作：
 
@@ -50,7 +50,7 @@ Our work is based on three core categories of the Paradigm Revolution:
 **致力於AI時代人類健康基礎設施建設，推動人類健康文明升級！**
 
 - 🌍 **官方網址：** [https://hhp.foundation/](https://hhp.foundation/)
-- 📖 **白皮書：** [HHPF 白皮書](https://hhp.foundation/zh-TW/whitepaper/)
+- 📖 **白皮書：** [HHPF 白皮書](https://hhp.foundation/zh-TW/whitepaper/Project-Origins.html)
 
 ### 🚀 AI時代人類健康基礎設施建設是基於範式革命三大類工作：
 
