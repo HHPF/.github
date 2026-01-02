@@ -1,6 +1,9 @@
 <div align="center">
+  
   <img src="https://via.placeholder.com/180?text=HHPF+Logo" alt="HHPF Logo" width="120" height="120"><br>
+  
   # Human Health Plan Foundation
+  
   <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
   <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
   <a href="./README_TW.md"><img src="https://img.shields.io/badge/繁體中文-Trad.%20Chinese-grey?style=for-the-badge" alt="繁體中文"></a>
@@ -103,4 +106,5 @@ HHPF 坚信开源的力量。无论你是密码学家、生物信息学家还是
 <div align="center">
   <sub>&copy; 2026 Human Health Plan Foundation. All Rights Reserved. <br> Built with ❤️ for the future of Humanity.</sub>
 </div>
+
 
