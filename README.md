@@ -1,1 +1,1 @@
-Human Health Plan (HHPF) Github Repository
+Human Health Plan Foundation (HHPF) Github Repository
