@@ -7,6 +7,7 @@
   <a href="./README.md"><img src="https://img.shields.io/badge/English-Default-grey?style=for-the-badge" alt="English"></a>
   <a href="./README_CN.md"><img src="https://img.shields.io/badge/简体中文-Simp.%20Chinese-blue?style=for-the-badge" alt="简体中文"></a>
   <a href="./README_TW.md"><img src="https://img.shields.io/badge/繁體中文-Trad.%20Chinese-grey?style=for-the-badge" alt="繁體中文"></a>
+  
 </div>
 
 <br />
@@ -20,9 +21,9 @@
 
 ---
 
-## 🗣️ 来自联合创始人 Ocean.X 的信
+## 🗣️ 来自HHPF创始人 Ocean.X 的信
 
-你好，我是 **Ocean.X**，Human Health Plan Foundation (HHPF) 的联合创始人。
+你好，我是 **Ocean.X**，Human Health Plan Foundation (HHPF) 的创始人!
 
 我们正处在生物技术与人工智能交汇的奇点，但我们也面临着巨大的危机：**我们的健康数据——这一人类最宝贵的资产，正被割裂在孤岛中，或被巨头无偿攫取。**
 
