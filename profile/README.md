@@ -1,7 +1,9 @@
 <br><br>
-<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="140"><br>
+<img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="160"><br>
 
 # Human Health Plan Foundation
+
+<br>
 
 [English](#-english) | [简体中文](#-简体中文) | [繁體中文](#-繁體中文)
 
