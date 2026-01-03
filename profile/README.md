@@ -27,12 +27,12 @@ Our work is based on three core categories of the Paradigm Revolution:
 
 <h2 id="-简体中文">🇨🇳 简体中文</h2>
 
-**致力于AI时代人类健康基础设施建设，推动人类健康文明升级！**
+**致力于AI时代人类健康基础设施建设！开启人类健康文明升级的范式革命！**
 
 - 🌍 **官方网址：** [https://hhp.foundation/](https://hhp.foundation/)
 - 📖 **白皮书：** [HHPF 白皮书](https://hhp.foundation/zh-CN/Whitepaper/Project-Origins.html)
 
-### 🚀 AI时代人类健康基础设施建设是基于范式革命三大类工作：
+### 🚀 SMD范式革命：
 
 1.  **思维模式升级：** 健康哲学，医养一体化思想，健康的第一原理，健康工程方法论，生命系统论。
 2.  **理论框架深化：** 系统医学 / 系统疗法 / 系统循证 / 系统诊疗。
