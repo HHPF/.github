@@ -57,5 +57,6 @@ Our work is based on three core categories of the Paradigm Revolution:
 
 **Contact us:** [info@hhp.foundation](mailto:info@hhp.foundation)
 
+Powerby [Vitepres](https://vitepress.com)
 
 
