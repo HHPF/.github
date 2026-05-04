@@ -11,7 +11,7 @@
 
 <h2 id="-english">🌐 English</h2>
 
-**Committed to building human health infrastructure in the AI era and promoting the upgrade of human health civilization!**
+**Define a New Health Paradigm. Build the Intelligent OS for Life.**
 
 - 🌍 **Official Website:** [https://hhp.foundation/](https://hhp.foundation/)
 - 📖 **Whitepaper:** [HHPF Whitepaper](https://hhp.foundation/Whitepaper/Project-Origins.html)
@@ -27,7 +27,7 @@ Our work is based on three core categories of the Paradigm Revolution:
 
 <h2 id="1">🇨🇳 简体中文</h2>
 
-**致力于AI时代人类健康基础设施建设！开启人类健康文明升级的范式革命！**
+**定义健康新范式，构建生命智能OS！**
 
 - 🌍 **官方网址：** [https://hhp.foundation/](https://hhp.foundation/)
 - 📖 **白皮书：** [HHPF 白皮书](https://hhp.foundation/zh-CN/Whitepaper/Project-Origins.html)
@@ -42,7 +42,7 @@ Our work is based on three core categories of the Paradigm Revolution:
 
 <h2 id="2">🇭🇰 繁體中文</h2>
 
-**致力於AI時代人類健康基礎設施建設，推動人類健康文明升級！**
+**定義新健康范式，構建生命智能OS！**
 
 - 🌍 **官方網址：** [https://hhp.foundation/](https://hhp.foundation/)
 - 📖 **白皮書：** [HHPF 白皮書](https://hhp.foundation/zh-TW/Whitepaper/Project-Origins.html)
@@ -56,7 +56,8 @@ Our work is based on three core categories of the Paradigm Revolution:
 ---
 
 **Contact us:** [info@hhp.foundation](mailto:info@hhp.foundation)
-
+
+
 
 
 
