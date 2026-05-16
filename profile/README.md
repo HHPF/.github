@@ -1,7 +1,7 @@
 <br><br>
 <img src="https://hhp.foundation/logo-green.png" alt="HHPF Logo" width="160"><br>
 
-# Human Health Plan Foundation
+# Human Health Plan
 
 <br>
 
