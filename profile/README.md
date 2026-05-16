@@ -14,7 +14,7 @@
 **Define a New Health Paradigm. Build the Intelligent OS for Life.**
 
 - 🌍 **Official Website:** [https://hhp.foundation/](https://hhp.foundation/)
-- 📖 **Whitepaper:** [HHPF Whitepaper](https://hhp.foundation/Whitepaper/Project-Origins.html)
+- 📖 **Whitepaper:** [HHP Whitepaper](https://hhp.foundation/Whitepaper/Project-Origins.html)
 
 ### 🚀 Building Human Health Infrastructure in the AI Era
 Our work is based on three core categories of the Paradigm Revolution:
@@ -30,7 +30,7 @@ Our work is based on three core categories of the Paradigm Revolution:
 **定义健康新范式，构建生命智能OS！**
 
 - 🌍 **官方网址：** [https://hhp.foundation/](https://hhp.foundation/)
-- 📖 **白皮书：** [HHPF 白皮书](https://hhp.foundation/zh-CN/Whitepaper/Project-Origins.html)
+- 📖 **白皮书：** [HHP 白皮书](https://hhp.foundation/zh-CN/Whitepaper/Project-Origins.html)
 
 ### 🚀 SMD范式革命：
 
@@ -45,7 +45,7 @@ Our work is based on three core categories of the Paradigm Revolution:
 **定義新健康范式，構建生命智能OS！**
 
 - 🌍 **官方網址：** [https://hhp.foundation/](https://hhp.foundation/)
-- 📖 **白皮書：** [HHPF 白皮書](https://hhp.foundation/zh-TW/Whitepaper/Project-Origins.html)
+- 📖 **白皮書：** [HHP 白皮書](https://hhp.foundation/zh-TW/Whitepaper/Project-Origins.html)
 
 ### 🚀 AI時代人類健康基礎設施建設是基於範式革命三大類工作：
 
